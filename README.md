@@ -25,3 +25,7 @@ Then using the command
 
 to get a clean build of the library and run the app
 
+# Disclaimer
+
+This is a portfolio piece for Robert Thomas, created as part of Exeblock Inc. all code belong to them.
+
